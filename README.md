@@ -398,10 +398,3 @@ djangorestframework>=3.15
 pandas>=2.0
 requests>=2.31
 ```
-
----
-
-## 👤 Author
-
-Built as a backend engineering assessment.  
-Stack: Django · Django REST Framework · OSRM · OpenStreetMap · Python
